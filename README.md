@@ -1,4 +1,4 @@
-# amd-laptop-hackintosh
+# Opencore EFI for AMD Laptops (updated to Big Sur 11.2)
 
 **Opencore version: 0.6.3**
 
