@@ -1,6 +1,7 @@
 # amd-laptop-hackintosh
 
 **Opencore version: 0.6.3**
+
 **macOS: Big Sur 11.2**
 
 My laptop is **ASUS Vivobook A412D**
