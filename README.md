@@ -1,8 +1,8 @@
-# Opencore EFI for AMD Laptops (updated to Big Sur 11.2)
+# Opencore EFI for AMD Laptops (updated to Big Sur 11.4)
 
 **Opencore version: 0.6.3**
 
-**macOS: Big Sur 11.2**
+**macOS: Big Sur 11.4**
 
 My laptop is **ASUS Vivobook A412D**
 - CPU: AMD Ryzen 5 3500U
