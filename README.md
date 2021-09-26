@@ -1,6 +1,6 @@
-# Opencore EFI for AMD Laptops (updated to Big Sur 11.5.2)
+# OpenCore EFI for AMD Laptops (updated to Big Sur 11.5.2)
 
-**Opencore version: 0.6.3**
+**OpenCore version: 0.7.4**
 
 **macOS: Big Sur 11.5.2**
 
@@ -12,7 +12,9 @@ My laptop is **ASUS Vivobook A412D**
 - Network: Intel wireless 8265
 - Audio: AMD K17.1
 
-**Note**: Please change MLB/ROM/Serial Number/UUID.
+**Note**: 
+- Please change MLB/ROM/Serial Number/UUID.
+- Highly recommend using Wifi by HeliPort app.
 
 There's no audio and video supported, but I mainly use this Hackintosh for iOS development purpose, so not a big deal.
 
@@ -32,7 +34,8 @@ There's no audio and video supported, but I mainly use this Hackintosh for iOS d
 │       │   ├── OpenCanopy.efi
 │       │   └── OpenRuntime.efi
 │       ├── Kexts
-│       │   ├── AirportItlwm.kext
+│       │   ├── itlwm.kext
+│       │   ├── HeliPort.dmg
 │       │   ├── AMDRyzenCPUPowerManagement.kext
 │       │   ├── AppleALC.kext
 │       │   ├── AppleMCEReporterDisabler.kext
