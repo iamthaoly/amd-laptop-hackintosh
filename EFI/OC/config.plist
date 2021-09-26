@@ -164,13 +164,13 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>AirportItlwm.kext</string>
+				<string>itlwm.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/AirportItlwm</string>
+				<string>Contents/MacOS/itlwm</string>
 				<key>Arch</key>
 				<string>Any</string>
 				<key>MaxKernel</key>
