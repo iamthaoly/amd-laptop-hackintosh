@@ -4,7 +4,7 @@
 
 **macOS: Monterey 12.5.4**
 
-![Monterey 12.5.4 Overview](images/overview.png)
+![Monterey 12.5.4 Overview](images/monterey.png)
 
 My laptop is **ASUS Vivobook A412D**
 - CPU: AMD Ryzen 5 3500U
