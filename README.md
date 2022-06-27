@@ -1,10 +1,10 @@
-# OpenCore EFI for AMD Laptops (updated to Monterey 12.5.4)
+# OpenCore EFI for AMD Laptops (updated to Monterey 12.4)
 
 **OpenCore version: 0.7.4**
 
-**macOS: Monterey 12.5.4**
+**macOS: Monterey 12.4**
 
-![Monterey 12.5.4 Overview](images/monterey.png)
+![Monterey 12.4 Overview](images/monterey.png)
 
 My laptop is **ASUS Vivobook A412D**
 - CPU: AMD Ryzen 5 3500U
