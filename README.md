@@ -34,10 +34,11 @@ Or you can start the guide [here](https://nootinc.github.io/guide/gathering-file
 - MapUSB and replace UTBDefault.kext with UTBMap.kext
 
 ### config.plist [Setup](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
+**remove `sample.plist`**  
 
 **NVRAM**  
-- boot-args: `-v keepsyms=1  debug=0x100 npci=0x2000`  
-- `alcid=xx` replace `xx` with your layout-id 
+- boot-args: `-v keepsyms=1 debug=0x100 npci=0x2000 vsmcgen=1`  
+- add `alcid=xx` replace `xx` with your layout-id 
 - add `agdpmod=pikera` if you got black screen after boot
 
 **PlatformInfo**
@@ -55,11 +56,9 @@ Or you can start the guide [here](https://nootinc.github.io/guide/gathering-file
   - Audio Codec: `xx`
 - Network Controller models: Intel wireless 8265
 - Drive Model:
-## Post-install
-
 ## **Note**:
-
 There's no audio and video supported, but I mainly use this Hackintosh for iOS development purpose, so not a big deal.
+## Post-install
 
 ### What is working?
 - 
@@ -114,6 +113,6 @@ There's no audio and video supported, but I mainly use this Hackintosh for iOS d
 
 ```
 
-## Bonus
+## Images
 
 ![A SwiftUI App](images/app.png)
