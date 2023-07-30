@@ -1,6 +1,6 @@
 # OpenCore EFI for AMD Laptops (updated to Monterey 12.4)
 
-**OpenCore version: 0.7.4**
+**OpenCore version: update from 0.7.4 to [0.9.3](https://github.com/acidanthera/OpenCorePkg/releases/)**
 
 **macOS: Monterey 12.4**
 
@@ -17,6 +17,10 @@ My laptop is **ASUS Vivobook A412D**
 - Highly recommend using Wifi by HeliPort app.
 
 There's no audio and video supported, but I mainly use this Hackintosh for iOS development purpose, so not a big deal.
+
+## Post-install
+### What is working?
+### What is not working?
 
 ## What's in the box?
 ```
